@@ -1,0 +1,36 @@
+.carousel {
+    height: 500px;
+    z-index: 0;
+    position: relative;
+}
+
+
+}
+
+.slide10  {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.slide2 {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.slide3 {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.footer {
+    background-color: blue;
+    height: 100px;
+}
